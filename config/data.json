@@ -1,0 +1,14 @@
+[
+  { "label": "Asparagus", "calories": 16, "selected": false },
+  { "label": "Black Olives", "calories": 16, "selected": false },
+  { "label": "Cabbage", "calories": 25, "selected": false },
+  { "label": "Carrot", "calories": 40.98, "selected": false },
+  { "label": "Cauliflower", "calories": 23, "selected": false },
+  { "label": "Cucumber", "calories": 17, "selected": false },
+  { "label": "Peas", "calories": 79, "selected": false },
+  { "label": "Potato", "calories": 77, "selected": false },
+  { "label": "Pumpkin", "calories": 26, "selected": false },
+  { "label": "Spinach", "calories": 23, "selected": false },
+  { "label": "Apple", "calories": 45, "selected": false },
+  { "label": "Banana", "calories": 95, "selected": false }
+]
